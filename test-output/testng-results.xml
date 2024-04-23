@@ -2,12 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-18T17:16:50 IST" name="Default suite" finished-at="2024-04-18T17:16:53 IST" duration-ms="3440">
+  <suite started-at="2024-04-19T15:25:52 IST" name="Default suite" finished-at="2024-04-19T15:26:03 IST" duration-ms="11126">
     <groups>
     </groups>
-    <test started-at="2024-04-18T17:16:50 IST" name="Default test" finished-at="2024-04-18T17:16:53 IST" duration-ms="3440">
+    <test started-at="2024-04-19T15:25:52 IST" name="Default test" finished-at="2024-04-19T15:26:03 IST" duration-ms="11126">
       <class name="testPages.LoginTest">
-        <test-method signature="VerifyLoginFunction()[pri:0, instance:testPages.LoginTest@42a48628]" started-at="2024-04-18T17:16:50 IST" name="VerifyLoginFunction" finished-at="2024-04-18T17:16:53 IST" duration-ms="3399" status="PASS">
+        <test-method is-config="true" signature="Launch()[pri:0, instance:testPages.LoginTest@35d019a3]" started-at="2024-04-19T15:25:52 IST" name="Launch" finished-at="2024-04-19T15:25:56 IST" duration-ms="4014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+        <test-method signature="VerifyLoginFunction()[pri:0, instance:testPages.LoginTest@35d019a3]" started-at="2024-04-19T15:25:56 IST" name="VerifyLoginFunction" finished-at="2024-04-19T15:26:03 IST" duration-ms="7077" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyLoginFunction -->
